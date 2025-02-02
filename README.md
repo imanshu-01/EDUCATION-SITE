@@ -10,7 +10,7 @@ This project is designed to provide quality learning resources and interactive t
  HTML, CSS, Bootstrap  
  
  # 💻 Setup Instructions Clone the repository:
- git clone https://github.com/imanshu-01/Education-WebDesdign  Navigate to the project directory: cd education-website Open the index.html file in your browser. 
+ git clone https://imanshuscopefirst.netlify.app/  Navigate to the project directory: cd education-website Open the index.html file in your browser. 
  
  # 🛠️ Contributing Contributions are welcome!
  If you'd like to contribute, please fork the repository and submit a pull request.
