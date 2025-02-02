@@ -1,0 +1,72 @@
+.nav-link:hover{
+    text-decoration: underline;
+     text-decoration-color: black;
+}
+.nav-link{
+    margin-left: 100px;
+}
+
+.d-flex{
+    margin-right: 80px;
+}
+.button{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 15px;
+}
+.dropdown{
+   margin-left: 80px;
+}
+
+.body.p{
+    @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&family=Playwrite+ES+Deco+Guides&family=Playwrite+MX+Guides&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+} 
+.intro{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+   margin-left: 50px;
+}
+.text{
+    text-align: center;
+    margin-top: 30px;
+}
+.text1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.size{
+    width: 1000px;
+    height: 500px;
+    margin-left: 150px;
+}
+.card-title{
+    border-radius: 100%;
+
+}
+.card-text{
+    font-style: italic;
+}
+.feedback-fluid{
+    background-color: aliceblue;
+}
+
+.w{
+   text-align: center;
+}
+
+.student-image{
+    max-width: 100%;
+    height: auto;
+}
+@media (max-width:768px){
+    .text-md-start{
+        text-align: center !important;
+    }
+}
+.f{
+    background-color: rgb(6, 6, 6);
+    
+}
