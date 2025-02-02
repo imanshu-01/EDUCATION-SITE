@@ -5,7 +5,7 @@ This project is designed to provide quality learning resources and interactive t
 - Built with Bootstrap for a mobile-friendly experience.
 - Interactive Learning Modules - Engaging and informative lessons.
 - Resource Library - Access study materials and guides.
-- 
+  
  # 🚀 Technologies Used Frontend:
  HTML, CSS, Bootstrap  
  
@@ -20,4 +20,6 @@ This project is designed to provide quality learning resources and interactive t
  
  LinkedIn: https://www.linkedin.com/in/himanshu-patle-2b563730b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
  
- GitHub: https://github.com/imanshu-01  # Happy Learning! 📚
+ GitHub: https://github.com/imanshu-01 
+ 
+ # Happy Learning! 📚
