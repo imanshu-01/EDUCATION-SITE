@@ -10,7 +10,7 @@ This project is designed to provide quality learning resources and interactive t
  HTML, CSS, Bootstrap  
  
  # 💻 Setup Instructions Clone the repository:
-https://imanshuscopefirst.netlify.app/ project link. 
+https://imanshufirstweb.netlify.app/ project link. 
 Navigate to the project directory: cd education-website Open the index.html file in your browser. 
  
  # 🛠️ Contributing Contributions are welcome!
