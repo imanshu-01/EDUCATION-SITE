@@ -1,4 +1,5 @@
-# Education Website Welcome to my education website!
+# Education Website 
+# Welcome to my education website!
 This project is designed to provide quality learning resources and interactive tools for students and educators. 
 
 # 📌 Features Responsive Design 
